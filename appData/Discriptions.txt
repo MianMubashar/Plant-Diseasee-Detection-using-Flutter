@@ -1,0 +1,9 @@
+Short Description
+Plantae is a Machine learning based plants diseases detection and treatment mobile application. This ap will helps you to find the diseases of different plants and also provide the treatment of thses diseases. This app will save your time and money.
+
+
+Long Discription.
+Plants are very precious. Healthy plants means healthy food and results good health. Our mission is to design and application which helps farmers and people doing kitchen gardening to promote vegetation in Pakistan. This app is a complete system and it will help you in diagnosis and treatment of different fruits and vegetables.
+It is very important to diagnose the diseases of plans at right time to prevent it from dangerous diseases..
+Plantae is a Machine learning based plants diseases detection and treatment mobile application. This ap will helps you to find the diseases of different plants and also provide the treatment of thses diseases. This app will save your time and money. 
+You can check your crop by just capturing an image of leaf and push detect button.
